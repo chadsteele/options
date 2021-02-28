@@ -1,10 +1,16 @@
 {
   "name": "@powertools/options",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "agnostic feature flags",
   "main": "index.js",
   "author": "chadsteele.com",
   "license": "ISC",
   "repository": "chadsteele/options",
-  "keywords": ["featureflags","options","agnostic","powertools","javascript"]
+  "keywords": [
+    "featureflags",
+    "options",
+    "agnostic",
+    "powertools",
+    "javascript"
+  ]
 }
