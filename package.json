@@ -1,6 +1,6 @@
 {
   "name": "@powertools/options",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "agnostic feature flags",
   "main": "./build/index.js",
   "author": "chadsteele.com",
