@@ -21,5 +21,6 @@
   },
   "scripts": {
     "build": "babel src -d build"
-  }
+  },
+  "dependencies": {}
 }
