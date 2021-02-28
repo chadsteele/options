@@ -2,7 +2,7 @@
   "name": "@powertools/options",
   "version": "1.0.1",
   "description": "agnostic feature flags",
-  "main": "index.js",
+  "main": "./build/index.js",
   "author": "chadsteele.com",
   "license": "ISC",
   "repository": "chadsteele/options",
@@ -12,5 +12,14 @@
     "agnostic",
     "powertools",
     "javascript"
-  ]
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.8"
+  },
+  "scripts": {
+    "build": "babel src -d build"
+  }
 }
