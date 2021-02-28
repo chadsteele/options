@@ -1,8 +1,8 @@
-# @powertools/options
-an agnostic feature flag implementation that enables you to overload in code, querystring and api, like launchdarkly
-
 [![npm (scoped)](https://img.shields.io/npm/v/@powertools/options.svg)](https://www.npmjs.com/package/@powertools/options)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@powertools/options.svg)](https://www.npmjs.com/package/@powertools/options)
+
+# @powertools/options
+an agnostic feature flag implementation that enables you to overload in code, querystring and api, like launchdarkly
 
 ## Install
 ```
